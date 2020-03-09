@@ -1,7 +1,7 @@
 # Ubuntu 16.04 LTS (Xenial) Molecule Test Image
-[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-ubuntu1604/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-ubuntu1604)
+[![Docker Repository on Quay](https://quay.io/repository/synominit/docker-molecule-ubuntu1604/status "Docker Repository on Quay")](https://quay.io/repository/synominit/docker-molecule-ubuntu1604)[![Build Status](https://travis-ci.com/synominit/docker-molecule-ubuntu1604.svg?branch=master)](https://travis-ci.com/synominit/docker-molecule-ubuntu1604)
 
-[![Build Status](https://travis-ci.com/synominit/docker-molecule-ubuntu1604.svg?branch=master)](https://travis-ci.com/synominit/docker-molecule-ubuntu1604)
+
 
 
 Ubuntu 16.04 LTS (Xenial) Docker container for Ansible playbook and role testing.
